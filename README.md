@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Sonal Pachpute</h1>
+<h1 align="center">Hi, I'm Sonal Pachpute</h1>
 <h3 align="center">A Golang developer, working on distributed systems</h3>
 
 - 🔭 I’m currently buiding **games**
